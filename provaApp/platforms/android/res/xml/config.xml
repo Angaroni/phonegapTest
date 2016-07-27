@@ -13,7 +13,7 @@
     <author email="thym-dev@eclipse.org" href="http://www.eclipse.org/thym">
 		Eclipse.org - Thym
 	</author>
-    <content src="index1.html" />
+    <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
